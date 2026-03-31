@@ -46,16 +46,11 @@ Git | GitHub | Jupyter Notebook | VS Code
 
 ---
 
-## 📈 GitHub Stats
-
-![Santanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=s2097p-de\&show_icons=true\&theme=default)
-
----
 
 ## 📫 Connect with Me
 
-* 💼 LinkedIn: *(Add link)*
-* 📧 Email: *(Optional)*
+* 💼 LinkedIn: www.linkedin.com/in/santanu-pathak-3640672a5
+* 📧 Email: s2097p@gmail.com
 
 ---
 
