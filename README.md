@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Santanu
+# 👋 Hi, I'm Santanu Pathak
 
 🎯 **Aspiring Data Analyst | Turning Data into Insights**
 
