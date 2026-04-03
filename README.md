@@ -40,6 +40,15 @@ Build a database for an e-commerce retail store and analyze:
 * Products
 * Sales performance
 
+### 🔹Road Accident Analysis using SQL
+📌 Project Overview
+This project analyzes road accident data to identify patterns, risk factors, and safety insights using SQL.
+
+🎯 Objectives
+Identify high-risk locations
+Analyze accident trends by time, weather, and traffic
+Categorize accidents based on severity and risk score
+
 
 ---
 
