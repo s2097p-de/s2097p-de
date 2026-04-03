@@ -28,11 +28,17 @@ Git | GitHub | Jupyter Notebook | VS Code
 
 ## 📊 Featured Projects
 
-### 🔹 Sales Dashboard (Excel / Power BI)
+### 🔹 Sales Dashboard (Excel )
 
 * 📊 Interactive dashboard with KPIs
 * 📉 Identified loss-making products
 * 📌 Business-focused insights
+### 🔹 SQL Project: Online Retail Store Analysis
+Build a database for an e-commerce retail store and analyze:
+* Customers
+* Orders
+* Products
+* Sales performance
 
 
 ---
