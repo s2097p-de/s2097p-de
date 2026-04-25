@@ -22,8 +22,8 @@ analyst = {
     "location"   : "West Bengal, India 📍",
     "role"       : "Data Analyst | IT Professional",
     "focus"      : ["SQL Analytics", "Python EDA", "Power BI Dashboards"],
-    "background" : ["Network Engineering", "Technical Supervision"],
-    "education"  : "B.Tech – Mechanical Engineering (MAKAUT, 78.6%)",
+    "background" : ["Data Analyst","Network Engineering", "Technical Supervision"],
+    "education"  : "B.Tech – Mechanical Engineering (MAKAUT, 78.6%)","Diploma - Mechanical Engineering (WBSCTE, 78.6%)
     "email"      : "s2097p@gmail.com",
     "open_to"    : "Data Analyst Roles 🚀"
 }
