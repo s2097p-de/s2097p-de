@@ -1,7 +1,7 @@
-<div align="left side">
+<div align="center">
 
 <!-- Dynamic Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Santanu+Pathak;Data+Analyst+%7C+SQL+%7C+Python+%7C+Power+BI;Transforming+Raw+Data+into+Business+Intelligence" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Santanu+Pathak;Data+Analyst+%7C+SQL+%7C+Python+%7C+Power+BI;Transforming+Raw+Data+into+Business+Intelligence" alt="Typing SVG" />
 
 <br/>
 
